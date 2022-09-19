@@ -4,9 +4,9 @@
 
 ## 2022 年 11 月号
 
-`./sample1`
+### sample1
 
-![](./assets/sample1.png)
+<img src="./assets/sample1.png" width="400" alt="screen capture for sample1 app." />
 
 ## 2022 年 12 月号
 
