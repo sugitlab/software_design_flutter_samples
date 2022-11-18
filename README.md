@@ -6,8 +6,10 @@
 
 ### sample1
 
-<img src="./assets/sample1.png" width="400" alt="screen capture for sample1 app." />
+<img src="./assets/sample1.png" height="600" alt="screen capture for sample1 app." />
 
 ## 2022 年 12 月号
 
-Coming Soon.
+### sample2
+
+<img src="./assets/sample2.png" height="600" alt="screen capture for sample2 app." />
